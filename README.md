@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 👋 Hi, I’m @gavrigg
 👀 I’m interested in Cybersecurity
 🌱 I’m currently learning on the Security Blue Team Level 1 
