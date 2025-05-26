@@ -69,12 +69,4 @@ and incident response. I'm particularly interested in SOC operations, digital fo
 
 <h2>⚡️ Where to find me</h2>
 
-<p>
-  <a href="https://www.linkedin.com/in/gabriel-garc%C3%ADa-gonz%C3%A1lez-201200227/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <span style="display:inline-block; width:10px;"></span>
-  <a href="mailto:gabrielgargon92@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-garc%C3%ADa-gonz%C3%A1lez-201200227/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgargon92@gmail.com)
