@@ -72,7 +72,7 @@ and incident response. I'm particularly interested in SOC operations, digital fo
 <p>
   <a href="https://www.linkedin.com/in/gabriel-garc%C3%ADa-gonz%C3%A1lez-201200227/"
      target="_blank"
-     style="text-decoration: none; margin-right: 10px;">
+     style="text-decoration: none; margin-right: 30px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gabrielgargon92@gmail.com"
