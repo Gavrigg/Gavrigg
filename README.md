@@ -7,12 +7,22 @@ I’m a Security Blue Team enthusiast with hands-on experience in monitoring, de
 My background combines technical curiosity with a methodical approach to threat identification, system hardening, 
 and incident response. I'm particularly interested in SOC operations, digital forensics and adversary simulation.
 </p>
-<br><p>💻 A passionate IT security technician <br>
-📝 Currently learning on the Security Blue Team Level 1 <br> 
-👨‍💻 Looking to collaborate on a Security Analyst or correlate areas inside SOC <br>
-📧 How to reach me: gabrielgargon92@gmail.com<br></p>
 
-<br>
+<h2>🔍 Projects & Labs</h2>
+<ul>
+  <li>🔐 <strong>Analysis with Splunk:</strong> Detected brute-force attempts using correlation rules and dashboarding.</li>
+  <li>🧪 <strong>Memory Forensics with Volatility:</strong> Extracted indicators of compromise from memory dumps.</li>
+  <li>📁 <strong>Disk Triage with Autopsy & KAPE:</strong> Analyzed file system artifacts in a simulated insider threat case.</li>
+  <li>🎣 <strong>Phishing Triage:</strong> Decoded obfuscated URLs and extracted payload indicators from malicious emails.</li>
+</ul>
+
+<h2>🤝 Soft Skills</h2>
+<ul>
+  <li>Clear and structured incident reporting</li>
+  <li>Effective communication during escalation</li>
+  <li>Team collaboration under pressure</li>
+  <li>Self-learning and adaptability to evolving threats</li>
+</ul>
 
 <h2>🛠️ Technical Skills</h2>
 
