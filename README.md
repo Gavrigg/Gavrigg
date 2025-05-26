@@ -67,6 +67,6 @@ and incident response. I'm particularly interested in SOC operations, digital fo
 
 <br>
 
-<h2>⚡️ Where to find me</h2>
+<h2>⚡️ Contact me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-garc%C3%ADa-gonz%C3%A1lez-201200227/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgargon92@gmail.com)
