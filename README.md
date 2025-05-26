@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/9a80c599-6d95-4003-8332-56e797f2fbd0)
+![ChatGPT Image 26 may 2025, 17_21_20](https://github.com/user-attachments/assets/ce079e79-0df1-46d3-829f-f39e678a41fc)
 
 ## Hi there, I am Gabriel García González 🛡️
 
