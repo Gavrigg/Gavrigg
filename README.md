@@ -16,8 +16,8 @@ and incident response. I'm particularly interested in SOC operations, digital fo
   <li>🧪 <strong>Memory Forensics with Volatility:</strong> Extracted indicators of compromise from memory dumps</li>
   <li>💽 <strong>Disk Triage with Autopsy & KAPE:</strong> Analyzed file system artifacts in a simulated insider threat case</li>
   <li>🎣 <strong>Phishing Triage:</strong> Decoded obfuscated URLs and extracted payload indicators from malicious emails</li>
-  <li>🕵️‍♂️ <strong>Security audit simulation:</strong> Decoded obfuscated URLs and extracted payload indicators from malicious emails</li>
-  <li>📁 <strong>Deploying Windows Server and Configuring Active Directory:</strong> Analyzed file system artifacts in a simulated insider threat case</li>
+  <li>🕵️‍♂️ <strong>Security audit simulation:</strong> Conducted endpoint and network analysis and reported system misconfigurations and anomalies</li>
+  <li>📁 <strong>Deploying Windows Server and Configuring Active Directory:</strong> Set up domain services, users, and group policies in a lab environment</li>
 </ul>
 
 <br>
