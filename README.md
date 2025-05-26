@@ -1,12 +1,10 @@
 ![ChatGPT Image 26 may 2025, 17_21_20](https://github.com/user-attachments/assets/ce079e79-0df1-46d3-829f-f39e678a41fc)
 
-## Hi there, I am Gabriel García González 🛡️
-
-<h1>Hey, I'm Gabriel!</h1>
-- 💻 I’m interested in Cybersecurity
-- 📝 I’m currently learning on the Security Blue Team Level 1 
-- 👨‍💻 I’m looking to collaborate on a Security Analyst or correlate areas inside SOC
-- 📧 How to reach me: gabrielgargon92@gmail.com
+<h1>Hey, I am Gabriel! 🛡️</h1>
+<br>- 💻 I’m interested in Cybersecurity<br>
+<br>- 📝 I’m currently learning on the Security Blue Team Level 1 <br>
+<br>- 👨‍💻 I’m looking to collaborate on a Security Analyst or correlate areas inside SOC<br>
+<br>- 📧 How to reach me: gabrielgargon92@gmail.com<br>
 <p>A passionate IT security technician</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
