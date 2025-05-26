@@ -1,6 +1,12 @@
 ![banner11](https://github.com/user-attachments/assets/7ad97f9d-869e-4f84-b956-89af3e2dd33f)
 
 <h1>Hey, I am Gabriel! 🛡️</h1>
+<h2>🧠 About Me</h2>
+<p>
+I’m a Security Blue Team enthusiast with hands-on experience in monitoring, detection, and forensic analysis. 
+My background combines technical curiosity with a methodical approach to threat identification, system hardening, 
+and incident response. I'm particularly interested in SOC operations, digital forensics and adversary simulation.
+</p>
 <br><p>💻 A passionate IT security technician <br>
 📝 Currently learning on the Security Blue Team Level 1 <br> 
 👨‍💻 Looking to collaborate on a Security Analyst or correlate areas inside SOC <br>
