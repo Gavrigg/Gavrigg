@@ -12,10 +12,12 @@ and incident response. I'm particularly interested in SOC operations, digital fo
 
 <h2>🔍 Projects & Labs</h2>
 <ul>
-  <li>🔐 <strong>Analysis with Splunk:</strong> Detected brute-force attempts using correlation rules and dashboarding.</li>
-  <li>🧪 <strong>Memory Forensics with Volatility:</strong> Extracted indicators of compromise from memory dumps.</li>
-  <li>📁 <strong>Disk Triage with Autopsy & KAPE:</strong> Analyzed file system artifacts in a simulated insider threat case.</li>
-  <li>🎣 <strong>Phishing Triage:</strong> Decoded obfuscated URLs and extracted payload indicators from malicious emails.</li>
+  <li>🔐 <strong>Analysis with Splunk:</strong> Detected brute-force attempts using correlation rules and dashboarding</li>
+  <li>🧪 <strong>Memory Forensics with Volatility:</strong> Extracted indicators of compromise from memory dumps</li>
+  <li>💽 <strong>Disk Triage with Autopsy & KAPE:</strong> Analyzed file system artifacts in a simulated insider threat case</li>
+  <li>🎣 <strong>Phishing Triage:</strong> Decoded obfuscated URLs and extracted payload indicators from malicious emails</li>
+  <li>🕵️‍♂️ <strong>Security audit simulation:</strong> Decoded obfuscated URLs and extracted payload indicators from malicious emails</li>
+  <li>📁 <strong>Deploying Windows Server and Configuring Active Directory:</strong> Analyzed file system artifacts in a simulated insider threat case</li>
 </ul>
 
 <br>
