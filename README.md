@@ -1,11 +1,5 @@
 ![banner11](https://github.com/user-attachments/assets/7ad97f9d-869e-4f84-b956-89af3e2dd33f)
 
-<h1>Hey, I am Gabriel! 🛡️</h1>
-<br><p>💻 A passionate IT security technician <br>
-📝 Currently learning on the Security Blue Team Level 1 <br> 
-👨‍💻 Looking to collaborate on a Security Analyst or correlate areas inside SOC <br>
-📧 How to reach me: gabrielgargon92@gmail.com<br></p>
-
 <br>
 
 <div align="center">
@@ -13,6 +7,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=gavrigg&theme=github-dark-blue" alt="GitHub Streak"/>
   </a>
 </div>
+<br>
+
+<h1>Hey, I am Gabriel! 🛡️</h1>
+<br><p>💻 A passionate IT security technician <br>
+📝 Currently learning on the Security Blue Team Level 1 <br> 
+👨‍💻 Looking to collaborate on a Security Analyst or correlate areas inside SOC <br>
+📧 How to reach me: gabrielgargon92@gmail.com<br></p>
 
 <br>
 
