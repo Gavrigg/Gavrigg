@@ -1,7 +1,7 @@
 ![ChatGPT Image 26 may 2025, 17_21_20](https://github.com/user-attachments/assets/ce079e79-0df1-46d3-829f-f39e678a41fc)
 
 <h1>Hey, I am Gabriel! 🛡️</h1>
-<br><p>💻 A passionate IT security technician
+<br><p>💻 A passionate IT security technician <br>
 📝 Currently learning on the Security Blue Team Level 1 <br> 
 👨‍💻 Looking to collaborate on a Security Analyst or correlate areas inside SOC <br>
 📧 How to reach me: gabrielgargon92@gmail.com<br></p>
