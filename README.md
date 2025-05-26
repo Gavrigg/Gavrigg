@@ -8,6 +8,8 @@ My background combines technical curiosity with a methodical approach to threat 
 and incident response. I'm particularly interested in SOC operations, digital forensics and adversary simulation.
 </p>
 
+<br>
+
 <h2>🔍 Projects & Labs</h2>
 <ul>
   <li>🔐 <strong>Analysis with Splunk:</strong> Detected brute-force attempts using correlation rules and dashboarding.</li>
@@ -15,6 +17,8 @@ and incident response. I'm particularly interested in SOC operations, digital fo
   <li>📁 <strong>Disk Triage with Autopsy & KAPE:</strong> Analyzed file system artifacts in a simulated insider threat case.</li>
   <li>🎣 <strong>Phishing Triage:</strong> Decoded obfuscated URLs and extracted payload indicators from malicious emails.</li>
 </ul>
+
+<br>
 
 <h2>🛠️ Technical Skills</h2>
 
@@ -60,6 +64,8 @@ and incident response. I'm particularly interested in SOC operations, digital fo
   <li>Team collaboration under pressure</li>
   <li>Self-learning and adaptability to evolving threats</li>
 </ul>
+
+<br>
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-garc%C3%ADa-gonz%C3%A1lez-201200227/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
