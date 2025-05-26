@@ -8,6 +8,14 @@
 
 <br>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gavrigg&theme=github-dark-blue" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<br>
+
 <h2>🛠️ Technical Skills</h2>
 
 <p>
@@ -42,14 +50,6 @@
   <!-- AI -->
   <img src="https://img.shields.io/badge/Artificial_Intelligence-8B008B?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Artificial Intelligence"/>
 </p>
-
-<br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gavrigg&theme=github-dark-blue" alt="GitHub Streak"/>
-  </a>
-</div>
 
 <br>
 
