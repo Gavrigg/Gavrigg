@@ -1,4 +1,4 @@
-![banner1](https://github.com/user-attachments/assets/e9c69898-7930-49c7-9189-ac9833ad34c7)
+![banner11](https://github.com/user-attachments/assets/7ad97f9d-869e-4f84-b956-89af3e2dd33f)
 
 <h1>Hey, I am Gabriel! 🛡️</h1>
 <br><p>💻 A passionate IT security technician <br>
