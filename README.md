@@ -2,10 +2,13 @@
 
 <h1>Hey, I am Gabriel! 🛡️</h1>
 <br>- 💻 I’m interested in Cybersecurity<br>
-<br>- 📝 I’m currently learning on the Security Blue Team Level 1 <br>
-<br>- 👨‍💻 I’m looking to collaborate on a Security Analyst or correlate areas inside SOC<br>
-<br>- 📧 How to reach me: gabrielgargon92@gmail.com<br>
 <p>A passionate IT security technician</p>
+
+<br>📝 I’m currently learning on the Security Blue Team Level 1 <br> 
+👨‍💻 I’m looking to collaborate on a Security Analyst or correlate areas inside SOC <br>
+📧 How to reach me: gabrielgargon92@gmail.com<br>
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
