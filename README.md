@@ -45,7 +45,11 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gavrigg&theme=github-dark-blue)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gavrigg&theme=github-dark-blue" alt="GitHub Streak"/>
+  </a>
+</div>
 
 <br>
 
