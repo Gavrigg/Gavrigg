@@ -1,6 +1,6 @@
 ![banner11](https://github.com/user-attachments/assets/7ad97f9d-869e-4f84-b956-89af3e2dd33f)
 
-<h1>Hey, I am Gabriel! 🛡️</h1>
+<h1>Hey, I am Gabriel!</h1>
 <h2>🧠 About Me</h2>
 <p>
 I’m a Security Blue Team enthusiast with hands-on experience in monitoring, detection, and forensic analysis. 
@@ -12,12 +12,12 @@ and incident response. I'm particularly interested in SOC operations, digital fo
 
 <h2>🔍 Projects & Labs</h2>
 <ul>
-  <li>🔐 <strong>Analysis with Splunk:</strong> Detected brute-force attempts using correlation rules and dashboarding</li>
-  <li>🧪 <strong>Memory Forensics with Volatility:</strong> Extracted indicators of compromise from memory dumps</li>
-  <li>💽 <strong>Disk Triage with Autopsy & KAPE:</strong> Analyzed file system artifacts in a simulated insider threat case</li>
-  <li>🎣 <strong>Phishing Triage:</strong> Decoded obfuscated URLs and extracted payload indicators from malicious emails</li>
-  <li>🕵️‍♂️ <strong>Security audit simulation:</strong> Conducted endpoint and network analysis and reported system misconfigurations and anomalies</li>
-  <li>📁 <strong>Deploying Windows Server and Configuring Active Directory:</strong> Set up domain services, users, and group policies in a lab environment</li>
+  <li><strong>Analysis with Splunk:</strong> Detected brute-force attempts using correlation rules and dashboarding</li>
+  <li><strong>Memory Forensics with Volatility:</strong> Extracted indicators of compromise from memory dumps</li>
+  <li><strong>Disk Triage with Autopsy & KAPE:</strong> Analyzed file system artifacts in a simulated insider threat case</li>
+  <li><strong>Phishing Triage:</strong> Decoded obfuscated URLs and extracted payload indicators from malicious emails</li>
+  <li><strong>Security audit simulation:</strong> Conducted endpoint and network analysis and reported system misconfigurations and anomalies</li>
+  <li><strong>Deploying Windows Server and Configuring Active Directory:</strong> Set up domain services, users, and group policies in a lab environment</li>
 </ul>
 
 <br>
