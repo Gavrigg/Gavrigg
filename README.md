@@ -46,11 +46,7 @@ disciplined person, which has helped me achieve my goals as efficiently as possi
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
 <img src="https://img.shields.io/badge/Artificial_Intelligence-8B008B?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Artificial Intelligence"/>
-</p>
 
-💻 Código
-
-<p>
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
