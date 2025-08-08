@@ -25,38 +25,39 @@ disciplined person, which has helped me achieve my goals as efficiently as possi
 <h2>🛠️ Technical Skills</h2>
 
 <p>
-  <!-- Sistemas operativos -->
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 
-  <!-- Hacking y análisis de red -->
-  <img src="https://img.shields.io/badge/Nmap-5A4FCF?style=for-the-badge&logo=gnupg&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Wazuh-0264C4?style=for-the-badge&logoColor=white" alt="Wazuh"/>
-  <img src="https://img.shields.io/badge/Phishing_Analysis-DD4B39?style=for-the-badge&logo=maildotru&logoColor=white" alt="Phishing Analysis"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-  
-  <!-- Blue Team / Forense -->
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/Autopsy-003366?style=for-the-badge&logo=forensics&logoColor=white" alt="Autopsy"/>
-  <img src="https://img.shields.io/badge/KAPE-0f4c81?style=for-the-badge&logo=windows&logoColor=white" alt="KAPE"/>
-  <img src="https://img.shields.io/badge/Volatility-FF6600?style=for-the-badge&logo=apache&logoColor=white" alt="Volatility"/>
+<img src="https://img.shields.io/badge/Nmap-5A4FCF?style=for-the-badge&logo=gnupg&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Wazuh-0264C4?style=for-the-badge&logoColor=white" alt="Wazuh"/>
+<img src="https://img.shields.io/badge/Phishing_Analysis-DD4B39?style=for-the-badge&logo=maildotru&logoColor=white" alt="Phishing Analysis"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 
-  <!-- Admin / IT / Infra -->
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365"/>
-  <img src="https://img.shields.io/badge/Active_Directory-4472C4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+<img src="https://img.shields.io/badge/Autopsy-003366?style=for-the-badge&logo=forensics&logoColor=white" alt="Autopsy"/>
+<img src="https://img.shields.io/badge/KAPE-0f4c81?style=for-the-badge&logo=windows&logoColor=white" alt="KAPE"/>
+<img src="https://img.shields.io/badge/Volatility-FF6600?style=for-the-badge&logo=apache&logoColor=white" alt="Volatility"/>
 
-  <!-- Dev y scripting -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365"/>
+<img src="https://img.shields.io/badge/Active_Directory-4472C4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"/>
 
-  <!-- AI -->
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-8B008B?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8B008B?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Artificial Intelligence"/>
+</p>
+
+💻 Código
+
+<p>
+<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 <br>
+
 
 <h2>🤝 Soft Skills</h2>
 <ul>
