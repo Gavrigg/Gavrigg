@@ -1,4 +1,4 @@
-![banner11](https://github.com/user-attachments/assets/7ad97f9d-869e-4f84-b956-89af3e2dd33f)
+![banner11](banner.jpg)
 
 <h1>Hey, I am Gabriel!</h1>
 <h2>🧠 About Me</h2>
