@@ -1,23 +1,23 @@
 ![banner11](banner.jpg)
 
 <h1>Hey, I am Gabriel!</h1>
-<h2>🧠 About Me</h2>
+<h2>About Me</h2>
 <p>
-I’m a Security Blue Team enthusiast with hands-on experience in monitoring, detection, and forensic analysis. 
-My background combines technical curiosity with a methodical approach to threat identification, system hardening, 
-and incident response. I'm particularly interested in SOC operations, digital forensics and adversary simulation.
+IT security technician with practical experience in detecting events and managing security incidents. Empathy and
+proactivity are the characteristics that define me as a worker. I am a good communicator and a curious, responsible and
+disciplined person, which has helped me achieve my goals as efficiently as possible.
 </p>
 
 <br>
 
 <h2>🔍 Projects & Labs</h2>
 <ul>
-  <li><strong>Analysis with Splunk:</strong> Detected brute-force attempts using correlation rules and dashboarding</li>
-  <li><strong>Memory Forensics with Volatility:</strong> Extracted indicators of compromise from memory dumps</li>
-  <li><strong>Disk Triage with Autopsy & KAPE:</strong> Analyzed file system artifacts in a simulated insider threat case</li>
-  <li><strong>Phishing Triage:</strong> Decoded obfuscated URLs and extracted payload indicators from malicious emails</li>
-  <li><strong>Security audit simulation:</strong> Conducted endpoint and network analysis and reported system misconfigurations and anomalies</li>
-  <li><strong>Deploying Windows Server and Configuring Active Directory:</strong> Set up domain services, users, and group policies in a lab environment</li>
+  <li>Creation of a dashboard in Wazuh for vulnerability tracking and patch prioritisation</li>
+  <li>Development of a home SOC — In progress (GitHub)</li>
+  <li>Hack The Box and VulnHub CTFs machines</li>
+  <li>Forensic analysis with Autopsy, KAPE, and Volatility</li>
+  <li>Offensive security testing (scanning, enumeration, controlled exploitation)</li>
+  <li>Deployment of Windows Server, configuration of Active Directory, GPOs, DNS/DHCP, and backup</li>
 </ul>
 
 <br>
@@ -60,10 +60,11 @@ and incident response. I'm particularly interested in SOC operations, digital fo
 
 <h2>🤝 Soft Skills</h2>
 <ul>
-  <li>Clear and structured incident reporting</li>
-  <li>Effective communication during escalation</li>
-  <li>Team collaboration under pressure</li>
-  <li>Self-learning and adaptability to evolving threats</li>
+  <li>Observant</li>
+  <li>Critical Thinking</li>
+  <li>Problem Solving</li>
+  <li>Attention to Detail</li>
+  <li>Time Management</li>
 </ul>
 
 <br>
