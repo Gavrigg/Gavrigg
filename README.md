@@ -3,7 +3,7 @@
 <h1>Hey, I am Gabriel!</h1>
 <h2>About Me</h2>
 <p>
-IT security technician with practical experience in detecting events and managing security incidents. Empathy and
+Hello! I am a Security Specialist with practical experience in detecting events and managing security incidents. Empathy and
 proactivity are the characteristics that define me as a worker. I am a good communicator and a curious, responsible and
 disciplined person, which has helped me achieve my goals as efficiently as possible.
 </p>
