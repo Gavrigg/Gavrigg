@@ -1,4 +1,4 @@
-![banner11](banner.jpg)
+
 
 <h1>Hey, I am Gabriel!</h1>
 <h2>About Me</h2>
